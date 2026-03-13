@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: Extended Unified Theory (EUT)
+message: "If you use this repository, please cite it using this metadata."
+authors:
+  - family-names: Mercer
+    given-names: Jason
+date-released: 2026-01-01
+repository-code: https://github.com/EUT-Lab/eut-core
